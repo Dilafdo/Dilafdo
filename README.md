@@ -21,3 +21,5 @@ I'm Dilan Fernando. Currently, I'm pursuing a Master's degree in Computer Scienc
 
 <a href="https://github.com/Dilafdo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilafdo&layout=compact&langs_count=12&theme=onedark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dilafdo&color=blue)
+
