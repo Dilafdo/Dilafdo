@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## Software Engineer (3.5+ years of experience) | Master's student at University of Oulu
 
