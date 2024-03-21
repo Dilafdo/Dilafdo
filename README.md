@@ -6,7 +6,7 @@ I'm Dilan Fernando. Currently, I'm pursuing a Master's degree in Computer Scienc
 
 - 🔭 I’m currently working on my Master's program
 - 🌱 I’m currently learning Embedded Software Development, RTL Design & Verification, Computer Vision, Machine Learning, Signal processing and High Performance Computing.
-- 📫 Reach me on Gmail [imdilanfdo@gmail.com](mailto:imdilanfdo@gmail.com@gmail.com)
+- 📫 Reach me on Gmail [imdilanfdo@gmail.com](mailto:imdilanfdo@gmail.com)
 - ⚡  I like solving problems and involve in challenging tasks.
 
 ## Also, find me in
