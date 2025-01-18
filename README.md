@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-## Software Engineer (3.5+ years of experience) | Master's student at University of Oulu
+## Software Engineer (3.5+ years of experience) | Master's student at University of Oulu | Thesis Worker @ Nokia
 
 I'm Dilan Fernando. Currently, I'm pursuing a Master's degree in Computer Science and Engineering, specializing in Computer Engineering. I have over 3.5 years of experience in the Software Engineering industry. I completed my Bachelor's degree in Electronic and Telecommunication Engineering in 2020 and began working in the industry immediately thereafter.
 
-- 🔭 I’m currently working on my Master's program
+- 🔭 I’m currently doing my Master's thesis with Nokia.
 - 🌱 I’m interesting in Embedded Software Development, RTL Design & Verification, Computer Vision, Machine Learning, Signal processing, Internet of Things and High Performance Computing.
 - 📫 Reach me on Gmail [imdilanfdo@gmail.com](mailto:imdilanfdo@gmail.com)
 - ⚡  I like solving problems and involve in challenging tasks.
